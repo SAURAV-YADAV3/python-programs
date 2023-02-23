@@ -1,0 +1,5 @@
+a=int(input())
+b=int(input())
+x=int(input())
+c=x and print(a)
+c=x==0 and print(b)
